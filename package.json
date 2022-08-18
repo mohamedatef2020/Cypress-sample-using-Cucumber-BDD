@@ -1,0 +1,31 @@
+{
+  "name": "cypress-sample-using-cucumber-bdd",
+  "version": "1.0.0",
+  "description": "Sample BDD test scenario using cypress and cucumber",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamedatef2020/Cypress-sample-using-Cucumber-BDD.git"
+  },
+  "keywords": [
+    "Cypress",
+    "BDD",
+    "Cucumber",
+    "POM",
+    "test-automation",
+    "javascript"
+  ],
+  "author": "Mohamed Atef",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohamedatef2020/Cypress-sample-using-Cucumber-BDD/issues"
+  },
+  "homepage": "https://github.com/mohamedatef2020/Cypress-sample-using-Cucumber-BDD#readme",
+  "devDependencies": {
+    "cypress": "^10.6.0",
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  }
+}
